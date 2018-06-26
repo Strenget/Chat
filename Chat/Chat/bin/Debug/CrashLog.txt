@@ -1,0 +1,51 @@
+[26.06.2018 20:23:43] Castle.MicroKernel.ComponentNotFoundException: No component for supporting the service Chat.Views.MainWindowView was found
+   v Castle.MicroKernel.DefaultKernel.Castle.MicroKernel.IKernelInternal.Resolve(Type service, IDictionary arguments, IReleasePolicy policy)
+   v Castle.MicroKernel.DefaultKernel.Resolve(Type service, IDictionary arguments)
+   v Castle.Windsor.WindsorContainer.Resolve(Type service)
+   v Chat.AppBootstrapper.GetInstance(Type service, String key) v C:\Users\d\source\repos\Chat\Chat\AppBootstrapper.cs:řádek 53
+   v Caliburn.Micro.ViewLocator.<>c.<.cctor>b__10_0(Type viewType)
+   v Caliburn.Micro.ViewLocator.<>c.<.cctor>b__10_7(Type modelType, DependencyObject displayLocation, Object context)
+   v Caliburn.Micro.ViewLocator.<>c.<.cctor>b__10_8(Object model, DependencyObject displayLocation, Object context)
+   v Caliburn.Micro.WindowManager.CreateWindow(Object rootModel, Boolean isDialog, Object context, IDictionary`2 settings)
+   v Caliburn.Micro.WindowManager.ShowWindow(Object rootModel, Object context, IDictionary`2 settings)
+   v Caliburn.Micro.BootstrapperBase.DisplayRootViewFor(Type viewModelType, IDictionary`2 settings)
+   v Caliburn.Micro.BootstrapperBase.DisplayRootViewFor[TViewModel](IDictionary`2 settings)
+   v Chat.AppBootstrapper.OnStartup(Object sender, StartupEventArgs e) v C:\Users\d\source\repos\Chat\Chat\AppBootstrapper.cs:řádek 35
+   v System.Windows.Application.OnStartup(StartupEventArgs e)
+   v System.Windows.Application.<.ctor>b__1_0(Object unused)
+   v System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   v System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+[26.06.2018 20:42:16] Castle.MicroKernel.ComponentNotFoundException: No component for supporting the service Chat.Views.MainWindowView was found
+   v Castle.MicroKernel.DefaultKernel.Castle.MicroKernel.IKernelInternal.Resolve(Type service, IDictionary arguments, IReleasePolicy policy)
+   v Castle.MicroKernel.DefaultKernel.Resolve(Type service, IDictionary arguments)
+   v Castle.Windsor.WindsorContainer.Resolve(Type service)
+   v Chat.AppBootstrapper.GetInstance(Type service, String key) v C:\Users\d\source\repos\Chat\Chat\AppBootstrapper.cs:řádek 54
+   v Caliburn.Micro.ViewLocator.<>c.<.cctor>b__10_0(Type viewType)
+   v Caliburn.Micro.ViewLocator.<>c.<.cctor>b__10_7(Type modelType, DependencyObject displayLocation, Object context)
+   v Caliburn.Micro.ViewLocator.<>c.<.cctor>b__10_8(Object model, DependencyObject displayLocation, Object context)
+   v Caliburn.Micro.WindowManager.CreateWindow(Object rootModel, Boolean isDialog, Object context, IDictionary`2 settings)
+   v Caliburn.Micro.WindowManager.ShowWindow(Object rootModel, Object context, IDictionary`2 settings)
+   v Caliburn.Micro.BootstrapperBase.DisplayRootViewFor(Type viewModelType, IDictionary`2 settings)
+   v Caliburn.Micro.BootstrapperBase.DisplayRootViewFor[TViewModel](IDictionary`2 settings)
+   v Chat.AppBootstrapper.OnStartup(Object sender, StartupEventArgs e) v C:\Users\d\source\repos\Chat\Chat\AppBootstrapper.cs:řádek 35
+   v System.Windows.Application.OnStartup(StartupEventArgs e)
+   v System.Windows.Application.<.ctor>b__1_0(Object unused)
+   v System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   v System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+[26.06.2018 20:45:02] Castle.MicroKernel.ComponentNotFoundException: No component for supporting the service Chat.Views.MainWindowView was found
+   v Castle.MicroKernel.DefaultKernel.Castle.MicroKernel.IKernelInternal.Resolve(Type service, IDictionary arguments, IReleasePolicy policy)
+   v Castle.MicroKernel.DefaultKernel.Resolve(Type service, IDictionary arguments)
+   v Castle.Windsor.WindsorContainer.Resolve(Type service)
+   v Chat.AppBootstrapper.GetInstance(Type service, String key) v C:\Users\d\source\repos\Chat\Chat\AppBootstrapper.cs:řádek 54
+   v Caliburn.Micro.ViewLocator.<>c.<.cctor>b__10_0(Type viewType)
+   v Caliburn.Micro.ViewLocator.<>c.<.cctor>b__10_7(Type modelType, DependencyObject displayLocation, Object context)
+   v Caliburn.Micro.ViewLocator.<>c.<.cctor>b__10_8(Object model, DependencyObject displayLocation, Object context)
+   v Caliburn.Micro.WindowManager.CreateWindow(Object rootModel, Boolean isDialog, Object context, IDictionary`2 settings)
+   v Caliburn.Micro.WindowManager.ShowWindow(Object rootModel, Object context, IDictionary`2 settings)
+   v Caliburn.Micro.BootstrapperBase.DisplayRootViewFor(Type viewModelType, IDictionary`2 settings)
+   v Caliburn.Micro.BootstrapperBase.DisplayRootViewFor[TViewModel](IDictionary`2 settings)
+   v Chat.AppBootstrapper.OnStartup(Object sender, StartupEventArgs e) v C:\Users\d\source\repos\Chat\Chat\AppBootstrapper.cs:řádek 35
+   v System.Windows.Application.OnStartup(StartupEventArgs e)
+   v System.Windows.Application.<.ctor>b__1_0(Object unused)
+   v System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   v System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
