@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chat
 {
-	class Ksenja
+	public class Ksenja
 	{
 	}
 }
